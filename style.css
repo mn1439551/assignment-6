@@ -27,3 +27,39 @@ body {
   margin-left: 20px;
   margin-top: 20px;
 }
+
+.paragraph-1 {
+  color: #d9534f;
+  text-decoration: underline;
+  margin: 10px 0px 10px 0px;
+}
+
+.paragraph-2 {
+  color: #f0ad4e;
+  text-decoration: overline;
+  margin: 10px 0px 10px 0px;
+}
+
+.paragraph-3 {
+  color: #5cb85c;
+  word-spacing: 10px;
+  margin: 10px 0px 10px 0px;
+}
+
+.paragraph-4 {
+  color: #0275d8;
+  letter-spacing: 5px;
+  margin: 10px 0px 10px 0px;
+}
+
+.paragraph-5 {
+  color: #6f42c1;
+  text-indent: 30px;
+  margin: 10px 0px 10px 0px;
+}
+
+.paragraph-6 {
+  color: #e83e8c;
+  text-transform: uppercase;
+  margin: 10px 0px 10px 0px;
+}
